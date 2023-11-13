@@ -23,7 +23,7 @@ The steps carried out to execute this project are:
 
 ### Step 1: Create a cluster
 
-![01](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/01.png)
+![00](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/00.png)
 ### Step 2: Explore the source data
 
 ### Step 3: Ingest the raw data
