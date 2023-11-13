@@ -6,7 +6,7 @@
 
 
 IDS706_DataEngineering_BarbaraFlores_Miniproject11
-# 📂 PySpark Data Processing
+# 📂 Data Pipeline with Databricks
 
 The goal of this miniproject is to leverage PySpark for efficient data processing. In Week 10, we focus on using PySpark to work with large datasets, incorporating Spark SQL queries and data transformations to meet the specified requirements. Explore the power of PySpark in this project as we dive into data processing with a focus on functionality, SQL integration, and the delivery of a PySpark script and a comprehensive output report.
 
