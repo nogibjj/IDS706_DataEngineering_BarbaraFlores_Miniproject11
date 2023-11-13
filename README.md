@@ -21,17 +21,17 @@ In this project, we will use a dataset suggested as an example in the Databricks
 ## 🛠️ Project Workflow Steps
 The steps carried out to execute this project are:
 
-- Step 1: Create a cluster
-- Step 2: Explore the source data
-- Step 3: Ingest the raw data
-- Step 4: Prepare the raw data
-- Step 5: Query the transformed data
+### Step 1: Create a cluster
+### Step 2: Explore the source data
+### Step 3: Ingest the raw data
+### Step 4: Prepare the raw data
+### Step 5: Query the transformed data
 
 ![01](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/01.png)
 
 
-- Step 6: Create a Databricks job to run the pipeline
-- Step 7: Schedule the data pipeline job
+### Step 6: Create a Databricks job to run the pipeline
+### Step 7: Schedule the data pipeline job
 
 
 
