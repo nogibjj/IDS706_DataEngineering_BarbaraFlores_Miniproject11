@@ -22,7 +22,10 @@ In this project, we will use a dataset suggested as an example in the Databricks
 The steps carried out to execute this project are:
 
 ### Step 1: Create a cluster
+
+![01](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/01.png)
 ### Step 2: Explore the source data
+
 ### Step 3: Ingest the raw data
 ### Step 4: Prepare the raw data
 ### Step 5: Query the transformed data
