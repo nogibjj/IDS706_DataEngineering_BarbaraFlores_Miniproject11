@@ -16,6 +16,6 @@ The primary purpose of this project is to design and develop an efficient data p
 In this project, we will use a dataset suggested as an example in the Databricks documentation. This dataset is a subset of the Million Song Dataset, containing features and metadata for contemporary music tracks. You can access this dataset in the [sample datasets](https://docs.databricks.com/en/dbfs/databricks-datasets.html#databricks-datasets-databricks-datasets) included in the Databricks workspace.
 
 
-## References
+## 📌 References
 
 This project is guided by the official [Databricks Data Pipeline documentation](https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html). Please refer to this documentation for detailed information and best practices.
