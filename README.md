@@ -33,6 +33,7 @@ In this step, the raw data is loaded into a table to make it accessible for subs
 ![02](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/02.png)
 
 ### Step 4: Prepare the raw data
+In this stage, the raw songs data undergoes preparation for analysis through a series of steps. This involves filtering out unnecessary columns and introducing a new field that incorporates a timestamp for the creation of each new record.
 
 ![03](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/03.png)
 
