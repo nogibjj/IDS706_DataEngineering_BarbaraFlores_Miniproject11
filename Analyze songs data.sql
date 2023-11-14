@@ -16,3 +16,17 @@ GROUP BY
 ORDER BY
   num_songs DESC,
   year DESC
+
+-- COMMAND ----------
+
+ -- Find songs for your DJ list
+ SELECT
+   artist_name,
+   title,
+   tempo
+ FROM
+   prepared_song_data
+ WHERE
+   time_signature = 4
+   AND
+   tempo between 100 and 140;

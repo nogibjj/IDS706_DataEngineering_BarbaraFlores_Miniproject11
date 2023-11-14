@@ -1,4 +1,8 @@
 # Databricks notebook source
+# MAGIC %fs head --maxBytes=10000 "/databricks-datasets/songs/README.md"
+
+# COMMAND ----------
+
 # MAGIC %fs ls "/databricks-datasets/songs/data-001"
 
 # COMMAND ----------
