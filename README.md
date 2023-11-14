@@ -46,11 +46,16 @@ In this stage, the processing pipeline is extended by adding queries to analyze 
 ![05](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/05.png)
 
 ### Step 6: Create a Databricks job to run the pipeline
+
+This step involves creating a Databricks job to automate the execution of the data ingestion, processing, and analysis steps.
+
 ![06](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/06.png)
 
 ![07](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/07.png)
 
 ### Step 7: Schedule the data pipeline job
+
+In this stage, a schedule is established for the Databricks job responsible for executing the entire data pipeline in an automated and regular manner.
 
 ![08](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/08.png)
 
