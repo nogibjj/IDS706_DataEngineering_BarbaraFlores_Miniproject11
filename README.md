@@ -27,7 +27,8 @@ Data exploration took place in the notebook [Explore songs data.py](https://gith
 
 ![01](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/01.png)
 
-### Step 3: Ingest the raw data
+### Step 3: Ingest Raw Data
+In this step, the raw data is loaded into a table to make it accessible for subsequent processing. However, during our data exploration, we noticed that the header is not stored with the data. Therefore, it becomes necessary to explicitly define the schema, as demonstrated in the following example.
 
 ![02](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/02.png)
 
