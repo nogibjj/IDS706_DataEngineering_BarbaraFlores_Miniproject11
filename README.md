@@ -38,6 +38,7 @@ During this stage, the preparation of raw songs data for analysis took place. Th
 ![03](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/03.png)
 
 ### Step 5: Query the transformed data
+In this stage, the processing pipeline is extended by adding queries to analyze the songs data. These queries leverage the prepared records generated in the preceding step. The SQL queries utilized for this analysis can be found in [Analyze songs data.sql](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/blob/main/Analyze%20songs%20data.sql).
 
 ![04](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/04.png)
 
