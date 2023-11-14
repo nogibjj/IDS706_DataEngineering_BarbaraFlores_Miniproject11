@@ -38,8 +38,12 @@ The steps carried out to execute this project are:
 ![05](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/05.png)
 
 ### Step 6: Create a Databricks job to run the pipeline
+![06](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/06.png)
+
+![07](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/07.png)
+
 ### Step 7: Schedule the data pipeline job
 
-
+![08](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/08.png)
 
 
