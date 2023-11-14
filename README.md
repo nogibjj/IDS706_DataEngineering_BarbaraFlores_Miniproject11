@@ -16,9 +16,14 @@ The steps carried out to execute this project are:
 
 ### Step 1: Create a cluster
 
+For the data processing and analysis conducted in this example, a cluster was established to provide the essential computing resources for command execution. This cluster creation is fundamental for efficiently running Databricks commands, ensuring seamless operations throughout the data pipeline.
+
 ![00](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/00.png)
 
 ### Step 2: Explore the source data
+To learn how to use the Databricks interface to explore raw source data, commands from Databricks Utilities and PySpark were executed in a notebook. The goal was to examine both the source data and associated artifacts.
+
+Data exploration took place in the notebook [Explore songs data.py](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/blob/main/Explore%20songs%20data.py).
 
 ![01](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/01.png)
 
