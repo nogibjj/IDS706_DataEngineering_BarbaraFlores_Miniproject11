@@ -15,7 +15,6 @@ In this project, we will use a dataset suggested as an example in the Databricks
 The steps carried out to execute this project are:
 
 ### Step 1: Create a cluster
-
 For the data processing and analysis conducted in this example, a cluster was established to provide the essential computing resources for command execution. This cluster creation is fundamental for efficiently running Databricks commands, ensuring seamless operations throughout the data pipeline.
 
 ![00](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/00.png)
@@ -28,7 +27,8 @@ Data exploration took place in the notebook [Explore songs data.py](https://gith
 ![01](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/01.png)
 
 ### Step 3: Ingest Raw Data
-In this step, the raw data is loaded into a table to make it accessible for subsequent processing. However, during our data exploration, we noticed that the header is not stored with the data. Therefore, it becomes necessary to explicitly define the schema, as demonstrated in the following example.
+
+In this step, the raw data is loaded into a table using the script [Ingest songs data.py](https://github.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/blob/main/Ingest%20songs%20data.py). This process makes the data accessible for subsequent processing. However, during our data exploration, we observed that the header is not stored with the data. Therefore, it becomes necessary to explicitly define the schema, as demonstrated in the following example.
 
 ![02](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Miniproject11/main/images/02.png)
 
