@@ -6,10 +6,10 @@ test:
 	python -m pytest -vv --cov=main --cov=lib test_*.py
 
 format:	
-	black src/*.py
+	black *.py
 
 lint:
-	pylint  --disable=R,C src/*.py
+	pylint  --disable=R,C *.py
 
 container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
