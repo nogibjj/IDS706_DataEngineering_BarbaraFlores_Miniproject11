@@ -1,5 +1,8 @@
 # Databricks notebook source
 from pyspark.sql.types import DoubleType, IntegerType, StringType, StructType, StructField
+from pyspark.sql import SparkSession
+spark = SparkSession.builder.appName("MyApp").getOrCreate()
+
 
 # Define variables used in the code below
 file_path = "/databricks-datasets/songs/data-001/"
